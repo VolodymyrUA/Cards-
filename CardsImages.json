@@ -1,4 +1,4 @@
-[{
+[
   {
    name:"0",
    link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/0.imageset/00.png"
@@ -87,7 +87,7 @@
   },
   { name:"27",
     link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/27.imageset/27.png"
-  }
+  },
   { name:"28",
     link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/28.imageset/28.png"
   },
@@ -97,4 +97,4 @@
   { name:"30",
     link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/30.imageset/30.png"
   }
-}]
+]
