@@ -3,18 +3,19 @@
    name:"0",
    link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/0.imageset/00.png"
 },
-  {name:"1",
+  {
+    name:"1",
     link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/1.imageset/01.png"
   },
   {
-  name:"2",
-  link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/2.imageset/02.png"
+    name:"2",
+    link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/2.imageset/02.png"
   },
   { name:"3",
     link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/3.imageset/03.png"
   },
   { name:"4",
-   link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/4.imageset/04.png"
+    link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/4.imageset/04.png"
   },
   { name:"5", 
    link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/5.imageset/05.png"
@@ -23,14 +24,14 @@
     link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/6.imageset/06.png"
   },
   { name:"7",
-  link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/7.imageset/07.png"
+    link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/7.imageset/07.png"
   },
   { name:"8",
     link:"https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/8.imageset/08.png"
   },
-
-  { name:"9",
-  link: "https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/9.imageset/09.png"
+  { 
+    name:"9",
+    link: "https://raw.githubusercontent.com/VolodymyrUA/Cards-/master/Assets.xcassets/9.imageset/09.png"
   },
 
   { name:"10",
